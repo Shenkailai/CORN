@@ -24,8 +24,8 @@ pip install -r requirements.txt
 #### Operation
 - **python main.py** 
 
-- **Dataset**: Due to the need of the experiment, we used [nisqa-corpus](https://github.com/gabrielmittag/NISQA?tab=readme-ov-file) for training, evaluation and testing.
-- **Code & Model**: Due to the needs of the experiment, we used nisqa-corpus for training, evaluation and testing. The framework of corn has been modified from the original text, it is not completely consistent.
+- **Dataset**: Due to the need of the experiment, we used [NISQA-Corpus](https://github.com/gabrielmittag/NISQA?tab=readme-ov-file) for training, evaluation and testing.
+- **Code & Model**: Due to the needs of the experiment, we used NISQA-Corpus for training, evaluation and testing. The framework of corn has been modified from the original text, it is not completely consistent.
 
 ### 🪬 Citation
 
